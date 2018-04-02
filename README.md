@@ -1,4 +1,4 @@
-# TRABALHO 01: INTER MENU - Interactive Menu
+# TRABALHO 01: iMenu - The interactive menu
 Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 # Sumário
