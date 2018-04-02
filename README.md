@@ -13,7 +13,7 @@ Ricardo Meireles Trindade Pereira: ricarynwa8@gmail.com<br>
 Este documento contém a especificação do projeto do banco de dados Interactive Menu 
 <br>e motivação da escolha realizada. <br>
 
-> Nós visamos melhorar a experiência dos clientes nos restaurantes. Sabendo-se dos desafios para gerenciar projetos dentro de uma empresa e visando unir as informações relativas a funcionários, departamentos e projetos em um mesmo local, ficamos motivados com o desenvolvimento deste sistema. O Sistema "Devcom" tem como objetivo gerenciar todas as informações ao desenvolvimento das atividades de projetos em diversas localidades do país. Para realizar suas operações adequadamente e empresa necessita que sistema que armazene informações relativas aos Projetos, Departamentos e Empregados, além de também armazenar dados sobre  Dependentes e Históricos de Salário dos empregados. O sistema deverá gerar um conjunto de relatórios que por sua vez atenderá os anseios da empresa em questão.
+> Nós visamos melhorar a experiência dos clientes nos restaurantes. Sabendo da insatisfação constante dos clientes em alguns estabelecimentos, nosso sistema busca agilizar os pedidos e acelerar o atendimento, evitar erros no pedido dos clientes e promover uma melhor experiência aos fregueses. 
  
 
 ### 3.MINI-MUNDO Novo<br>
