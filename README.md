@@ -7,12 +7,8 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 Integrantes do grupo<br>
 Lucas Vinício Alves Almeida: lucasportugal2002@gmail.com<br>
 Ricardo Meireles Trindade Pereira: ricarynwa8@gmail.com<br>
-...
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados Interactive Menu 
-<br>e motivação da escolha realizada. <br>
-
 > Nós visamos melhorar a experiência dos clientes nos restaurantes. Sabendo da insatisfação constante dos clientes em alguns estabelecimentos, nosso sistema busca agilizar os pedidos e acelerar o atendimento, evitar erros no pedido dos clientes e promover uma melhor experiência aos fregueses. 
  
 
