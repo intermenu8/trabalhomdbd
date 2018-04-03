@@ -15,7 +15,7 @@ Ricardo Meireles Trindade Pereira: ricarynwa8@gmail.com<br>
 
 ### 3.MINI-MUNDO Novo<br>
 
-> O cliente, ao frequentar o restaurante, terá a sua disposição o sistema “iMenu” em um dispositivo Mobile provido pelo próprio restaurante. Ao acessar o sistema, o cliente poderá escolher o tipo de refeição (carnes, massas, sobremesas, etc…). As categorias serão definidas pelo próprio restaurante. 
+> O cliente, ao frequentar o restaurante, terá a sua disposição o sistema “iMenu” em um dispositivo Mobile provido pelo próprio restaurante. Ao acessar o sistema, o cliente poderá escolher o tipo de refeição (carnes, massas, sobremesas, etc…). As categorias serão definidas pelo próprio restaurante. Depois de escolher o tipo de refeição, o cliente fará seu pedido dado os pratos disponíveis podendo fazer observações sobre o mesmo. Os pedidos serão adicionados a uma lista onde o cliente poderá observar o tempo de preparo ou até mesmo cancelar o seu pedido. Após o cliente enviar o pedido, os cozinheiros terão acesso ao mesmo e irão servi-los. No final, o cliente poderá avaliar o atendimento e o restaurante através de um sistema de notas. 
 
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
