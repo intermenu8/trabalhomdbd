@@ -78,7 +78,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 >## Marco de Entrega 01 em: (12/05/2018)<br>
 ### 6	MODELO LÓGICO<br>
-       ( https://github.com/intermenu8/trabalhomdbd/blob/master/imagens/mdbdIMenu.PNG "Modelo Lógico")
+       ![Alt text](https://github.com/intermenu8/trabalhomdbd/blob/master/imagens/mdbdIMenu.PNG "Modelo Lógico")
 
 ### 7	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas DDL 
