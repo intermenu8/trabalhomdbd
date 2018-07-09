@@ -29,15 +29,20 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
-    a) Esta tabela deve conter todos os atributos do sistema e um mínimo de 10 linhas/registros de dados.
-    b) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
-    e deve ser criada antes do modelo conceitual
-    c) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
+![Alt text](https://github.com/intermenu8/trabalhomdbd/blob/master/arquivos/imenutests.xlsx "Tabela exemplo")
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 10 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+   Quantos clientes gastam menos de R$100,00 em um pedido?
+   Quais os 3 clientes que gastam menos nos pedidos?
+   Quantos clientes costumam fazer observações nos pedidos?
+   Quais os pratos mais caros?
+   Qual o foi o valor total arrecadado com esses 10 pedidos?
+   Quais os 3 pratos mais caros?(dentre esses)
+   Quais as 3 categorias mais caras?(dentre essas)
+   Qual o preço médio dos pratos?
+   Quantos os clientes gastam por pedido em média?
+   Quantos clientes gastam um valor acima da média?
     
 >## Marco de Entrega 01 em: (24/03/2018)<br>
 
