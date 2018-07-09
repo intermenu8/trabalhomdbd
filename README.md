@@ -83,9 +83,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
        
       
 ### 7	MODELO FÍSICO<br>
-        a) inclusão das instruções de criacão das estruturas DDL 
-        (criação de tabelas, alterações, etc..)          
-        
+![Modelo Físico(gerado pelo BrModelo)](https://github.com/intermenu8/trabalhomdbd/blob/master/arquivos/modelof%C3%ADsicogeradopeloBRmodelo "Modelo Físico")
+
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físic
