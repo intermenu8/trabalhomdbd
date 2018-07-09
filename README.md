@@ -43,38 +43,34 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ### 5.MODELO CONCEITUAL<br>
     A) NOTACAO ENTIDADE RELACIONAMENTO 
-        * Para nosso prótótipo limitaremos o modelo conceitual nas 5 principais entidades do escopo
-        * O protótipo deve possui no mínimo duas relações N para N
-        * o mínimo de entidades do modelo conceitual será igual a 5
-        
 ![Alt text](https://github.com/intermenu8/trabalhomdbd/blob/master/imagens/Capturar.PNG "Modelo Conceitual")
     
-    B) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
-    C) QUALIDADE 
-        Garantir que a semântica dos atributos seja clara no esquema
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas
-    
-        
-    
-#### 5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
 ## Marco de Entrega 01 em: (20/04/2018)<br>
-#### 5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão]
-    
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
-
 #### 5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    numero: número que identifica o cliente
+    nome: nome do cliente, para melhor atendimento
+    gasto: soma dos valores dos pedidos do cliente
+    COZINHEIRO: Tabela que armazena as informações relativas ao cozinheiro<br>
+    id: identificação do cozinheiro
+    nome: nome do cozinheiro
+    PEDIDO: Tabela que armazena as informações relativas ao pedidobr>
+    valor: soma dos valores dos pratos do pedido
+    id:identificação do pedido
+    observações: observações que o cliente pode fazer em relação ao seu pedido(exemplo: sem azeitona;)
+    GERENTE: Tabela que armazena as informações relativas ao gerente<br>
+    senha: senha para o gerente ter acesso ao sistema como gerente
+    CATEGORIA: Tabela que armazena as informações relativas à categoria<br>
+    id: identificação da categoria
+    nome: nome da categoria
+    PRATO: Tabela que armazena as informações relativas ao prato<br>
+    id: identificação do prato
+    nome: nome do prato
+    preço: preço do prato
+    INGREDIENTE: Tabela que armazena as informações relativas ao ingrediente<br>
+    id: identificação do ingrediente
+    nome: nome do ingrediente
+    <br>
 
 >## Marco de Entrega 01 em: (12/05/2018)<br>
 ### 6	MODELO LÓGICO<br>
