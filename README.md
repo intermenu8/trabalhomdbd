@@ -78,9 +78,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 >## Marco de Entrega 01 em: (12/05/2018)<br>
 ### 6	MODELO LÓGICO<br>
-        a) inclusão do modelo lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+       ( https://github.com/intermenu8/trabalhomdbd/blob/master/imagens/mdbdIMenu.PNG)
 
 ### 7	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas DDL 
