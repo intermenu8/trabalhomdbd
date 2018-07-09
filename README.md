@@ -29,20 +29,20 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
-![Alt text](https://github.com/intermenu8/trabalhomdbd/blob/master/arquivos/imenutests.xlsx "Tabela exemplo")
+![Tabela exemplo](https://github.com/intermenu8/trabalhomdbd/blob/master/arquivos/imenutests.xlsx "Tabela exemplo")
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-   Quantos clientes gastam menos de R$100,00 em um pedido?
-   Quais os 3 clientes que gastam menos nos pedidos?
-   Quantos clientes costumam fazer observações nos pedidos?
-   Quais os pratos mais caros?
-   Qual o foi o valor total arrecadado com esses 10 pedidos?
-   Quais os 3 pratos mais caros?(dentre esses)
-   Quais as 3 categorias mais caras?(dentre essas)
-   Qual o preço médio dos pratos?
-   Quantos os clientes gastam por pedido em média?
-   Quantos clientes gastam um valor acima da média?
+   Quantos clientes gastam menos de R$100,00 em um pedido?<br>
+   Quais os 3 clientes que gastam menos nos pedidos?<br>
+   Quantos clientes costumam fazer observações nos pedidos?<br>
+   Quais os pratos mais caros?<br>
+   Qual o foi o valor total arrecadado com esses 10 pedidos?<br>
+   Quais os 3 pratos mais caros?(dentre esses)<br>
+   Quais as 3 categorias mais caras?(dentre essas)<br>
+   Qual o preço médio dos pratos?<br>
+   Quantos os clientes gastam por pedido em média?<br>
+   Quantos clientes gastam um valor acima da média?<br>
     
 >## Marco de Entrega 01 em: (24/03/2018)<br>
 
