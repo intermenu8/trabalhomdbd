@@ -7,6 +7,7 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 Integrantes do grupo<br>
 Lucas Vinício Alves Almeida: lucasportugal2002@gmail.com<br>
 Ricardo Meireles Trindade Pereira: ricarynwa8@gmail.com<br>
+[e-mail do grupo: intermenu8@gmail.com]
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 
