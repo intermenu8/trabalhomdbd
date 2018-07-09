@@ -25,7 +25,7 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/intermenu8/trabalhomdbd/blob/master/imagens/imenumock.PNG "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/intermenu8/trabalhomdbd/blob/master/arquivos/Mockup.pdf "Empresa Devcom")
+![Arquivo PDF do Protótipo Balsamiq feito para IMenu: The Interactive Menu](https://github.com/intermenu8/trabalhomdbd/blob/master/arquivos/Mockup.pdf "Empresa Devcom")
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
